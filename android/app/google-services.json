@@ -1,0 +1,206 @@
+{
+  "project_info": {
+    "project_number": "1065163582153",
+    "project_id": "chattapp-34d9b",
+    "storage_bucket": "chattapp-34d9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065163582153:android:74e62d4ead3fa88cd9bb18",
+        "android_client_info": {
+          "package_name": "com.app.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065163582153-l7qsmfenolobr2v7mi1kevg5crfnghqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.demo",
+            "certificate_hash": "433402966b68ea7f74b6ace0e887d50c6000469f"
+          }
+        },
+        {
+          "client_id": "1065163582153-02l1bm1n8u85g0aj7nfmrj3cdnpf8lpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJLkfKMzSmMhFM96GiC-Bic2Z4YtSguGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065163582153-02l1bm1n8u85g0aj7nfmrj3cdnpf8lpv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1065163582153-6mabofrtc3m5d7l3f5v25jqu9aubermh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.webview"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065163582153:android:5cad4811272d84f4d9bb18",
+        "android_client_info": {
+          "package_name": "com.davish.agorartm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065163582153-02l1bm1n8u85g0aj7nfmrj3cdnpf8lpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJLkfKMzSmMhFM96GiC-Bic2Z4YtSguGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065163582153-02l1bm1n8u85g0aj7nfmrj3cdnpf8lpv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1065163582153-6mabofrtc3m5d7l3f5v25jqu9aubermh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.webview"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065163582153:android:ad357660bdd5c144d9bb18",
+        "android_client_info": {
+          "package_name": "com.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065163582153-02l1bm1n8u85g0aj7nfmrj3cdnpf8lpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJLkfKMzSmMhFM96GiC-Bic2Z4YtSguGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065163582153-02l1bm1n8u85g0aj7nfmrj3cdnpf8lpv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1065163582153-6mabofrtc3m5d7l3f5v25jqu9aubermh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.webview"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065163582153:android:78a87b98e313348fd9bb18",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065163582153-uk76sqb7h728snuqqtjnv3jr50eghsmq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatapp",
+            "certificate_hash": "433402966b68ea7f74b6ace0e887d50c6000469f"
+          }
+        },
+        {
+          "client_id": "1065163582153-02l1bm1n8u85g0aj7nfmrj3cdnpf8lpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJLkfKMzSmMhFM96GiC-Bic2Z4YtSguGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065163582153-02l1bm1n8u85g0aj7nfmrj3cdnpf8lpv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1065163582153-6mabofrtc3m5d7l3f5v25jqu9aubermh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.webview"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065163582153:android:f1a0b43ee5e7ef84d9bb18",
+        "android_client_info": {
+          "package_name": "com.example.webview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065163582153-02l1bm1n8u85g0aj7nfmrj3cdnpf8lpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJLkfKMzSmMhFM96GiC-Bic2Z4YtSguGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065163582153-02l1bm1n8u85g0aj7nfmrj3cdnpf8lpv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1065163582153-6mabofrtc3m5d7l3f5v25jqu9aubermh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.webview"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_web_client_id">140075309012-aa5ar633umgesagf7fg8chvpggliv1hh.apps.googleusercontent.com</string>
+
+    <string name="facebook_app_id">364612395621146</string>
+    <string name="facebook_client_token">ead7f593a2d42e84a0ed2d58df3aafb0</string>
+    <string name="fb_login_protocol_scheme">fb364612395621146</string>
+<!--    <string name="app_name">CartMax</string>-->
+<!--    <string name="facebook_app_id">1053267805604291</string>-->
+<!--    <string name="facebook_client_token">76ac6d8fe01647e70d9a9a43b50145b7</string>-->
+</resources>
